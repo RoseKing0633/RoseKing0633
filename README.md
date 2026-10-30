@@ -30,11 +30,6 @@ Matplotlib
 Building in progress. First up:
 - FX Behavior Attribution Engine — a reproducible attribution system over 1900+ FX trade records.
 - A-share Factor Backtest — a no-lookahead multi-factor backtest framework.
-数据 · Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RoseKing0633&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoseKing0633&layout=compact&theme=default&hide_border=true" />
-</div>
 联系我 · Contact
 - 📫 Email: siqingluo7@gmail.com / 2990056693@qq.com
 Stay hungry, stay honest with your backtests.
